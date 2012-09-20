@@ -1,0 +1,24 @@
+name = "defaultcraft4x4";
+type = "crafting4x4";
+guifile = "customstuff/textures/crafting4x4.png";
+id = 61;
+width = 194;
+height = 184;
+resultx = 142;
+resulty = 44;
+craftingx = 30;
+craftingy = 17;
+upperinvx = 17;
+upperinvy = 102;
+lowerinvx = 17;
+lowerinvy = 160;
+
+stringtext1 = "Crafting";
+stringx1 = 28;
+stringy1 = 6;
+stringcolor1 = 0x404040;
+
+stringtext2 = "Inventory";
+stringx2 = 17;
+stringy2 = 90;
+stringcolor2 = 0x404040;

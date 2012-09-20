@@ -1,0 +1,24 @@
+name = "defaultcraft5x5";
+type = "crafting5x5";
+guifile = "customstuff/textures/crafting5x5.png";
+id = 62;
+width = 212;
+height = 202;
+resultx = 160;
+resulty = 53;
+craftingx = 30;
+craftingy = 17;
+upperinvx = 26;
+upperinvy = 120;
+lowerinvx = 26;
+lowerinvy = 178;
+
+stringtext1 = "Crafting";
+stringx1 = 28;
+stringy1 = 6;
+stringcolor1 = 0x404040;
+
+stringtext2 = "Inventory";
+stringx2 = 26;
+stringy2 = 108;
+stringcolor2 = 0x404040;

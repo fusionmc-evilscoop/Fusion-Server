@@ -1,0 +1,24 @@
+name = "defaultcraft3x3";
+type = "crafting3x3";
+guifile = "gui/crafting.png";
+id = 60;
+width = 176;
+height = 166;
+resultx = 124;
+resulty = 35;
+craftingx = 30;
+craftingy = 17;
+upperinvx = 8;
+upperinvy = 84;
+lowerinvx = 8;
+lowerinvy = 142;
+
+stringtext1 = "Crafting";
+stringx1 = 28;
+stringy1 = 6;
+stringcolor1 = 0x404040;
+
+stringtext2 = "Inventory";
+stringx2 = 8;
+stringy2 = 72;
+stringcolor2 = 0x404040;

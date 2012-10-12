@@ -1,0 +1,40 @@
+name = "defaultfurnace";
+type = "furnace";
+guifile = "gui/furnace.png";
+id = 65;
+width = 176;
+height = 166;
+inputx = 56;
+inputy = 17;
+fuelx = 56;
+fuely = 53;
+resultx = 116;
+resulty = 35;
+upperinvx = 8;
+upperinvy = 84;
+lowerinvx = 8;
+lowerinvy = 142;
+
+cookonguix = 79;
+cookonguiy = 34;
+cookontexturex = 176;
+cookontexturey = 13;
+cookwidth = 22;
+cookheight = 17;
+
+burnonguix = 56;
+burnonguiy = 36;
+burnontexturex = 176;
+burnontexturey = 0;
+burnwidth = 14;
+burnheight = 14;
+
+stringtext1 = "Furnace";
+stringx1 = 60;
+stringy1 = 6;
+stringcolor1 = 0x404040;
+
+stringtext2 = "Inventory";
+stringx2 = 8;
+stringy2 = 72;
+stringcolor2 = 0x404040;

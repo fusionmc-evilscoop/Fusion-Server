@@ -1,0 +1,24 @@
+name = "defaultcraft7x7";
+type = "crafting7x7";
+guifile = "customstuff/textures/crafting7x7.png";
+id = 64;
+width = 248;
+height = 238;
+resultx = 196;
+resulty = 72;
+craftingx = 30;
+craftingy = 17;
+upperinvx = 44;
+upperinvy = 156;
+lowerinvx = 44;
+lowerinvy = 214;
+
+stringtext1 = "Crafting";
+stringx1 = 28;
+stringy1 = 6;
+stringcolor1 = 0x404040;
+
+stringtext2 = "Inventory";
+stringx2 = 44;
+stringy2 = 144;
+stringcolor2 = 0x404040;
